@@ -4,8 +4,12 @@ title: Essays and Reviews
 permalink: /essays-and-reviews
 ---
 
-[Emerson on Shakespeare](/emerson-on-shakespeare.html)
+In the olden days, I had a blog, and this was the best piece on it:
 
-[The Curious Disposition (Open Letters Monthly)](http://www.openlettersmonthly.com/the-curious-disposition/)
+- [Emerson on Shakespeare](/emerson-on-shakespeare.html)
 
-[Bright Sparkling Speeches (Open Letters Monthly)](http://www.openlettersmonthly.com/bright-sparkling-speeches/)
+The following are a couple pieces I wrote for Open Letters Monthly.
+
+- [The Curious Disposition](http://www.openlettersmonthly.com/the-curious-disposition/)
+
+- [Bright Sparkling Speeches](http://www.openlettersmonthly.com/bright-sparkling-speeches/)

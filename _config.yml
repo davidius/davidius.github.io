@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David Michael's Quirky Web Presence
-email: davidmichael4d@gmail.com
+# email: davidmichael4d@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  You can't really describe this site. That's the description.
+  This site is the site of David Michael. Tautologically, it's the place where David Michael puts all his stuff that's possibly worth putting into his site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davidmichael.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thatdavidfellow
